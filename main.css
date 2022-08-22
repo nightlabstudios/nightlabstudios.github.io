@@ -1,0 +1,20 @@
+.game-background {
+    background-color: #444444;
+    padding: 10px 15px 20px 15px;
+}
+
+.game-title {
+    font-size: 15pt;
+    font-weight: bold;
+    margin: 10px 0px 10px 0px;
+}
+
+.game-picture {
+    width: 200px;
+}
+
+.game-description {
+    display: inline;
+    vertical-align: top;
+    margin-left: 10px;
+}
