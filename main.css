@@ -38,7 +38,7 @@
 .game-progress-picture {
     border: 2px solid white;
     width: 100%;
-    height: 139px;
+    height: 190px;
     object-fit: cover;
 }
 
@@ -51,6 +51,6 @@ figcaption {
         width: 100%;
     }
     .game-progress-picture {
-        height: 330px;
+        height: 328px;
     }
 }
